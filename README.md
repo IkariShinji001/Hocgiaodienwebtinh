@@ -3,10 +3,10 @@
 > # Một số giao diện Web tĩnh đơn giản:( Đề thi của FPT Polytechnic có file PSD)
 ###     Giao diện Web tĩnh FPT Polytechnic.
 ####   *Link* -> https://ikarishinji001.github.io/giaodienwebFPTpolytechnic/
-####    *Code* -> https://ikarishinji001.github.io/giaodienwebFPTpolytechnic/
+####    *Code* -> https://github.com/IkariShinji001/giaodienwebFPTpolytechnic
 ###      Giao diện Web tĩnh FPT Shop.
 ####    *Link* -> https://ikarishinji001.github.io/GiaodienwebtinhFPTshop/
-####    *Code* -> https://ikarishinji001.github.io/GiaodienwebtinhFPTshop/
+####    *Code* -> https://github.com/IkariShinji001/GiaodienwebtinhFPTshop
 ###    Giao diện Web tĩnh Bánh Mì Việt.
 ####    *Link* -> https://ikarishinji001.github.io/GiaodienwebtinhBanhMiVIet/
 ####    *Code* -> https://github.com/IkariShinji001/GiaodienwebtinhBanhMiVIet
