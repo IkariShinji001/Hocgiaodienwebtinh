@@ -1,12 +1,10 @@
-<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.1/css/all.css" integrity="sha384-gfdkjb5BdAXd+lj+gudLWI+BXq4IuLW5IT+brZEZsLFm++aCMlF1V92rMkPaX4PP" crossorigin="anonymous">
-
-> # Một số giao diện Web tĩnh đơn giản:( Đề thi của FPT Polytechnic có file PSD)
+> # <img src="https://img.icons8.com/external-vitaliy-gorbachev-blue-vitaly-gorbachev/60/000000/external-interface-graphic-design-vitaliy-gorbachev-blue-vitaly-gorbachev-1.png"/>  Một số giao diện Web tĩnh đơn giản:( Đề thi của FPT Polytechnic có file PSD) 
 ###     Giao diện Web tĩnh FPT Polytechnic.
-####   *Link* -> https://ikarishinji001.github.io/giaodienwebFPTpolytechnic/
-####    *Code* -> https://github.com/IkariShinji001/giaodienwebFPTpolytechnic
+####   <img src="https://img.icons8.com/ios-filled/40/000000/link--v1.png"/> https://ikarishinji001.github.io/giaodienwebFPTpolytechnic/
+####     <img src="https://img.icons8.com/ios/40/000000/code.png"/>  https://github.com/IkariShinji001/giaodienwebFPTpolytechnic
 ###      Giao diện Web tĩnh FPT Shop.
-####    *Link* -> https://ikarishinji001.github.io/GiaodienwebtinhFPTshop/
-####    *Code* -> https://github.com/IkariShinji001/GiaodienwebtinhFPTshop
+####   <img src="https://img.icons8.com/ios-filled/40/000000/link--v1.png"/> https://ikarishinji001.github.io/GiaodienwebtinhFPTshop/
+####     <img src="https://img.icons8.com/ios/40/000000/code.png"/> https://github.com/IkariShinji001/GiaodienwebtinhFPTshop
 ###    Giao diện Web tĩnh Bánh Mì Việt.
-####    *Link* -> https://ikarishinji001.github.io/GiaodienwebtinhBanhMiVIet/
-####    *Code* -> https://github.com/IkariShinji001/GiaodienwebtinhBanhMiVIet
+####    <img src="https://img.icons8.com/ios-filled/40/000000/link--v1.png"/> https://ikarishinji001.github.io/GiaodienwebtinhBanhMiVIet/
+####    <img src="https://img.icons8.com/ios/40/000000/code.png"/>       https://github.com/IkariShinji001/GiaodienwebtinhBanhMiVIet
